@@ -1,0 +1,1 @@
+The program uses Twitter API to get trending topics and then find some related news articles about those topics using Google search. When ran, it gives a link to the top articles of that day, and change every time it’s ran.
